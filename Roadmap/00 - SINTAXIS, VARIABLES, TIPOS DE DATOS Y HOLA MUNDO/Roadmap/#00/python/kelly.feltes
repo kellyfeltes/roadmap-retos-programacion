@@ -1,0 +1,25 @@
+# https://python.org
+
+# Comentario en una línea
+
+#Comentario
+en varias líneas
+
+variable = "Variable"
+variable = "Nuevo valor de variable"
+
+CONSTANT = "Constante" 
+
+int = 1
+float = 1.5
+bool = True
+bool = False
+string = "Mi cadena de texto"
+other_string = 'Otra cadena de texto'
+
+print("¡Hola, Python!")
+
+print(type(int))
+print(type(float))
+print(type(bool))
+print(type(string))
